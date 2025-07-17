@@ -1,18 +1,18 @@
 ## AdminLTE in laravel-10
-<p align="center"><a href="https://github.com/ZalaNihir/adminlte-laravel10" target="_blank"><img src="ready-made-admin-lte-10.png" width="800" alt="Laravel-10 AdminLTE"></a></p>
+<p align="center"><a href="https://github.com/ionaspaul/adminlte-laravel10" target="_blank"><img src="ready-made-admin-lte-10.png" width="800" alt="Laravel-10 AdminLTE"></a></p>
 
 ## Light-Dark Mode Using Bootstrap
 
-<p align="center"><a href="https://github.com/ZalaNihir/adminlte-laravel10" target="_blank"><img src="light-dark-mode.png" width="800" alt="Bootstrap AdminLTE in LAravel"></a></p>
+<p align="center"><a href="https://github.com/ionaspaul/adminlte-laravel10" target="_blank"><img src="light-dark-mode.png" width="800" alt="Bootstrap AdminLTE in LAravel"></a></p>
 
 
 ## About This Projects
 
 This project is made in Laravel version 10. In this project, I used an Admin LTE with a breeze installation. Users do have not to worry about assets & folder paths for the admin side. Created for basic e-commerce project admin.Added the basic modules. Don't forget to give star to this repository ⭐.
 
-[![GitHub stars](https://img.shields.io/github/stars/ZalaNihir/adminlte-laravel10.svg?style=social&label=Star)](https://github.com/ZalaNihir/adminlte-laravel10)
-[![GitHub forks](https://img.shields.io/github/forks/ZalaNihir/adminlte-laravel10.svg?style=social&label=Fork)](https://github.com/ZalaNihir/adminlte-laravel10)
-[![GitHub watchers](https://img.shields.io/github/watchers/ZalaNihir/adminlte-laravel10.svg?style=social&label=Watch)](https://github.com/ZalaNihir/adminlte-laravel10)
+[![GitHub stars](https://img.shields.io/github/stars/ionaspaul/adminlte-laravel10.svg?style=social&label=Star)](https://github.com/ionaspaul/adminlte-laravel10)
+[![GitHub forks](https://img.shields.io/github/forks/ionaspaul/adminlte-laravel10.svg?style=social&label=Fork)](https://github.com/ionaspaul/adminlte-laravel10)
+[![GitHub watchers](https://img.shields.io/github/watchers/ionaspaul/adminlte-laravel10.svg?style=social&label=Watch)](https://github.com/ionaspaul/adminlte-laravel10)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -21,7 +21,7 @@ This project is made in Laravel version 10. In this project, I used an Admin LTE
 - For Install you have to clone this repo or you can fire this command as well.
 
 ```php
-git clone https://github.com/ZalaNihir/adminlte-laravel10.git
+git clone https://github.com/ionaspaul/adminlte-laravel10.git
 ```
 
 - Go into folder
@@ -135,7 +135,7 @@ password: ```p$ssw#rd```
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within this project, please send an e-mail to Nihir Zala via [testnihir@gmail.com](mailto:testnihir@gmail.com). All security vulnerabilities will be promptly addressed.If you find any issue or bug you can mail me.
+If you discover a security vulnerability within this project, please send an e-mail to Ionas Paul via [ionaspauldev@gmail.com](mailto:ionaspauldev@gmail.com). All security vulnerabilities will be promptly addressed.If you find any issue or bug you can mail me.
 
 ## License
 
